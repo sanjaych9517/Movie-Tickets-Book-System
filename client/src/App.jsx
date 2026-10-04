@@ -9,6 +9,7 @@ import MyBookings from "./pages/MyBookings";
 import Favorite from "./pages/Favorite";
 import { Toaster } from "react-hot-toast";
 import Footer from "./components/Footer";
+import { Show, SignInButton, SignUpButton, UserButton } from "@clerk/react";
 
 const App = () => {
 
